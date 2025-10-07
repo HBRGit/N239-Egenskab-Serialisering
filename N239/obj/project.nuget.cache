@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IC6RB18eJAU=",
+  "dgSpecHash": "z+SSjBSzx8Y=",
   "success": true,
-  "projectFilePath": "D:\\OT\\HeBR\\VisualStudio2022\\N239\\N239.csproj",
+  "projectFilePath": "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\N239.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\srvhebr\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+    "C:\\Users\\HBR\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
   ],
   "logs": []
 }

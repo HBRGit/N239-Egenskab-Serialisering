@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OT\\HeBR\\VisualStudio2022\\N239\\N239.csproj": {}
+    "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\N239.csproj": {}
   },
   "projects": {
-    "D:\\OT\\HeBR\\VisualStudio2022\\N239\\N239.csproj": {
+    "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\N239.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OT\\HeBR\\VisualStudio2022\\N239\\N239.csproj",
+        "projectUniqueName": "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\N239.csproj",
         "projectName": "N239",
-        "projectPath": "D:\\OT\\HeBR\\VisualStudio2022\\N239\\N239.csproj",
-        "packagesPath": "C:\\Users\\srvhebr\\.nuget\\packages\\",
-        "outputPath": "D:\\OT\\HeBR\\VisualStudio2022\\N239\\obj\\",
+        "projectPath": "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\N239.csproj",
+        "packagesPath": "C:\\Users\\HBR\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectHBR\\GitHub\\N239-Egenskab-Serialisering\\N239\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\srvhebr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HBR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
