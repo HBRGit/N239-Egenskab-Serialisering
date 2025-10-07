@@ -1,0 +1,17 @@
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\N239.exe
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\N239.deps.json
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\N239.runtimeconfig.json
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\N239.dll
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\N239.pdb
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.GeneratedMSBuildEditorConfig.editorconfig
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.AssemblyInfoInputs.cache
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.AssemblyInfo.cs
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.csproj.CoreCompileInputs.cache
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.dll
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\refint\N239.dll
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.pdb
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.genruntimeconfig.cache
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\ref\N239.dll
+D:\OT\HeBR\VisualStudio2022\N239\bin\Debug\net9.0\CsvHelper.dll
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.csproj.AssemblyReference.cache
+D:\OT\HeBR\VisualStudio2022\N239\obj\Debug\net9.0\N239.csproj.Up2Date
