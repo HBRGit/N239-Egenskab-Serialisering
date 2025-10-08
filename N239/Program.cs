@@ -4,7 +4,7 @@ using System;
 Console.WriteLine("Hello, World!");
 
 // hent json
-string json = System.IO.File.ReadAllText(@"data.json");
+string json = System.IO.File.ReadAllText(@"..\..\..\data.json");
 // deserialiser
 List<Person> lst = System.Text.Json.JsonSerializer.Deserialize<List<Person>>(json);
 
@@ -33,7 +33,7 @@ Console.WriteLine(
 
 
 // Wait for user input before closing the console window
-Console.ReadLine();
+Console.ReadKey();
 
 public class Person
 {
